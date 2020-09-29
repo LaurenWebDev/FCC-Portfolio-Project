@@ -1,0 +1,11 @@
+To Do:
+-push to git
+-deploy w/ netlify
+-set up message section
+-set up twitter account
+-link twitter account
+-fix tribute page photo
+
+Share:
+-FCC Forums
+-FCC FB Group
