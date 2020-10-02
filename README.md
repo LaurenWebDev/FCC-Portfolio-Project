@@ -1,6 +1,6 @@
 # A Brief Project Description: 
 
-## View Live Project: 
+## View Live Project: [Live Site](https://quirky-lumiere-d4d494.netlify.app/)
 
 ## Code Pen Url: [Portfolio Page Codepen](https://codepen.io/laurenmbutler/full/YzqMqPO)
 
