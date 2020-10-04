@@ -243,8 +243,8 @@ hr {
   padding: 0.25rem;
 }
 
-.my-2 {
-  margin: 2rem 0;
+.captcha {
+  margin: 2rem auto;
 }
 
 #contact button {
