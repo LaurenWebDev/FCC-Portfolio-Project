@@ -243,6 +243,10 @@ hr {
   padding: 0.25rem;
 }
 
+.my-2 {
+  margin: 2rem 0;
+}
+
 #contact button {
   display: block;
   margin: auto;

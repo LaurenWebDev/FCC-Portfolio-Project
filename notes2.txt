@@ -1,7 +1,8 @@
 To Do:
--push to git
--deploy w/ netlify
+-push to git x
+-deploy w/ netlify x
 -set up message section
+ - add padding to captcha
 -set up twitter account
 -link twitter account
 -fix tribute page photo
@@ -9,3 +10,7 @@ To Do:
 Share:
 -FCC Forums
 -FCC FB Group
+
+git add .
+git commit -m 'comment'
+git push -u origin master
